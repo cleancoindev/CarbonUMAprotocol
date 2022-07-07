@@ -14,7 +14,7 @@
     "highland": "^2.13.5",
     "lodash": "^4.17.20",
     "mkdirp": "^1.0.4",
-    "moment": "^2.29.1",
+    "moment": "^2.29.4",
     "prompt": "^1.1.0",
     "@uniswap/v3-core": "1.0.0-rc.2",
     "@uniswap/v3-periphery": "1.0.0-beta.23"
