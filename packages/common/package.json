@@ -48,7 +48,7 @@
     "hardhat-deploy": "^0.7.5",
     "hardhat-gas-reporter": "^1.0.3",
     "minimist": "^1.2.0",
-    "moment": "^2.24.0",
+    "moment": "^2.29.4",
     "node-metamask": "github:UMAprotocol/node-metamask",
     "require-context": "^1.1.0",
     "solidity-coverage": "^0.7.13",
