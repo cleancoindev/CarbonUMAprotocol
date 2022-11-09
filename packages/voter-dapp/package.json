@@ -20,7 +20,7 @@
     "react": "^16.8.6",
     "react-cookie": "^4.0.3",
     "react-dom": "^16.8.6",
-    "react-scripts": "3.0.1",
+    "react-scripts": "4.0.0",
     "regenerator-runtime": "^0.13.5",
     "unstated-next": "^1.1.0",
     "utf-8-validate": "^5.0.2"
